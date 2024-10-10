@@ -1,0 +1,2 @@
+update_time = 300
+TOKEN = "7021162512:AAE7IzUZTh34LGK1dYW8DY_6a3v1ktyat-A"
